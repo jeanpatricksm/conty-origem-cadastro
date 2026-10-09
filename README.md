@@ -152,5 +152,4 @@ Neste exemplo há quatro cliques: um de campanha antiga fora da janela, o link d
 
 ## Uso de IA
 
-<!-- revise e ajuste com as suas palavras antes de enviar -->
-O código, os testes e este README foram escritos com o Claude (Claude Code). Eu revisei o contrato do link, a regra de desempate, a janela a partir da primeira abertura e o formato da resposta de auditoria, e rodei `npm test` e `npm run typecheck`.
+Usei IA (Claude Code) pra me ajudar a entender o problema, analisar as regras e implementar a solução. Revisei o código, as decisões descritas aqui e rodei os testes pra confirmar.
